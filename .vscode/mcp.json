@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Neon": {
+      "type": "http",
+      "url": "https://mcp.neon.tech/mcp?projectId=fragrant-dust-32119190"
+    }
+  }
+}
